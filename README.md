@@ -4,6 +4,8 @@ This repo is a basic boilerplate of a React 18 app rendered using [`renderToPipe
 
 It is meant to be used as a training project to get used to RSC (React server components), React transitions and React.Suspense for data fetching.
 
+[Live demo](https://codesandbox.io/p/sandbox/react-router-6-ssr-params-7nngzt?file=%2F.codesandbox%2Ftasks.json%3A1%2C1)
+
 # Installation
 
 With yarn:
